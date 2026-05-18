@@ -5,7 +5,7 @@ Mini-application "Carnet de recettes" :
 - **Frontend** Next.js 15 (TypeScript) qui consomme l'API
 - **Chat IA** : un endpoint `/chat` côté backend que **vous devez implémenter** (LangChain + Azure AI Inference, déploiement **Kimi-K2.6**)
 
-Voir `BRIEF.md` pour les consignes pédagogiques détaillées.
+Les consignes pédagogiques détaillées te sont remises séparément par ton formateur.
 
 ## Prérequis
 
@@ -50,7 +50,6 @@ Le frontend affiche les recettes à gauche et un panneau de chat à droite. Le c
 
 ```
 .
-├── BRIEF.md                 # Consignes pédagogiques
 ├── docker-compose.yml       # Orchestration backend + frontend
 ├── Makefile                 # Raccourcis make up/down/logs/test
 ├── backend/
