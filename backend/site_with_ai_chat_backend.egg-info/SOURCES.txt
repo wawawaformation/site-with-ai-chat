@@ -2,6 +2,10 @@ pyproject.toml
 app/__init__.py
 app/main.py
 app/store.py
+app/agent/__init__.py
+app/agent/agent.py
+app/agent/llm.py
+app/agent/tools.py
 app/routes/__init__.py
 app/routes/chat.py
 app/routes/health.py
