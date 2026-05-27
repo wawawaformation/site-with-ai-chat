@@ -1,7 +1,5 @@
 """
-Configuration d'un LLM 
--> kimi par azure dans un premier temps
-
+Configuration du LLM  kimi azure
 """
 
 import os

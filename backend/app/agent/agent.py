@@ -9,7 +9,7 @@ from langchain.agents import create_agent
 
 from langgraph.checkpoint.memory import InMemorySaver
 from app.agent.tools import *
-from app.agent.llm import llm
+from app.agent.llm_infomaniak_apertus import llm
 
 system_prompt = """
 Tu aides les utilisateurs à gérer leurs recettes de cuisine :
